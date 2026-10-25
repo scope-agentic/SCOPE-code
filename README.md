@@ -9,11 +9,9 @@
 
 <p align="center">
   <a href="https://scope-agentic.github.io/SCOPE-page/">🌐 Project Page</a> &nbsp;·&nbsp;
-  <span>📄 arXiv (coming soon)</span> &nbsp;·&nbsp;
   <a href="https://github.com/scope-agentic/SCOPE-code">💻 Code</a> &nbsp;·&nbsp;
   <a href="docs/reproduction.md">🚀 Reproduction Guide</a>
 </p>
-<!-- ARXIV: Replace the coming-soon label with the final arXiv abstract URL. -->
 </div>
 
 <p align="center">
@@ -143,7 +141,7 @@ ALFWorld component ablations use **Qwen2.5-3B at step 180**.
 
 </details>
 
-## ⚙️ Paper Defaults
+## ⚙️ Default Configuration
 
 Our launchers in [`scope/`](scope/) implement the full SCOPE recipe.
 
@@ -277,20 +275,3 @@ We build on [SDAR](https://github.com/ZJU-REAL/SDAR), [verl](https://github.com/
 ## 📜 License
 
 This repository is released under the [Apache License 2.0](LICENSE). Upstream code and datasets retain their respective licenses.
-
-<a id="citation"></a>
-
-## 📚 Citation
-
-Citation metadata will be added after the anonymous review process. This repository can currently be referenced as:
-
-```bibtex
-@misc{anonymous2026scope,
-  author = {Anonymous Authors},
-  title = {SCOPE: Selective Critical-Step On-Policy Self-Distillation for Agentic Reinforcement Learning},
-  year  = {2026},
-  url   = {https://github.com/scope-agentic/SCOPE-code}
-}
-```
-
-<!-- Add the final author list and publication metadata after anonymous review. -->
